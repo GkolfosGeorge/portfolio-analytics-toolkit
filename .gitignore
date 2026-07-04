@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+output/
+*.docx
+*.pyc
+.venv/
+venv/
